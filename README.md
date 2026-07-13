@@ -9,7 +9,9 @@ Features
 
 ![Rear View](https://github.com/Xorlent/Saturn-4-Ultra-Build-Plate-Tilt-Dripper/blob/main/images/Saturn4-Back.jpg)
 
-### Instructions
+### Printing
+> [!IMPORTANT]
+> Ensure your filament profile shrinkage modifier has been calibrated to within .25% before printing or you will have fitment issues
 1. Print settings (PETG recommended)
    - .25mm layers
    - 4 top and bottom layers
@@ -18,8 +20,6 @@ Features
    - As little as 10% infill
 2. Two M4 x 18mm stainless flat head wood screws required
    - Replaces the 15mm center screws on the top of the build plate
-> [!TIP]
-> Ensure your filament profile shrinkage modifier has been calibrated to within .25% before printing or you will have fitment issues
 
 ### Installation
 1. Remove the plastic handle wings on the top of the build plate
