@@ -5,6 +5,10 @@ Features
 3. Improves print-ability
 4. Improves part strength
 
+![Front View](https://github.com/Xorlent/Saturn-4-Ultra-Build-Plate-Tilt-Dripper/blob/main/images/Saturn4-Front.jpg)
+
+![Rear View](https://github.com/Xorlent/Saturn-4-Ultra-Build-Plate-Tilt-Dripper/blob/main/images/Saturn4-Back.jpg)
+
 ### Instructions
 1. Print settings (PETG recommended)
    - .25mm layers
@@ -24,5 +28,6 @@ Features
 4. Install the Saturn 4 Ultra Build Plate Tilt Dripper over the top of the build plate
    - Orient so the angled receptacle is to the right of the build plate 
 5. Install the two M4 x 18mm screws to secure the part
-   
-Original model can be found [here](https://www.printables.com/model/925187-saturn-4-ultra)
+
+### More Info
+The original model can be found [here](https://www.printables.com/model/925187-saturn-4-ultra)
