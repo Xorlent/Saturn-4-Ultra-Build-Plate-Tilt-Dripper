@@ -28,6 +28,7 @@
 4. Install the Saturn 4 Ultra Build Plate Tilt Dripper over the top of the build plate
    - Orient so the angled receptacle is to the right of the build plate 
 5. Install the two M4 x 18mm screws to secure the part
+   - Do not overtighten!  Lightly tighten until you feel the screw seat - that is all that is needed.
 
 ### More Info
 The original model can be found [here](https://www.printables.com/model/925187-saturn-4-ultra)
