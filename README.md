@@ -9,7 +9,7 @@
 
 ![Rear View](https://github.com/Xorlent/Saturn-4-Ultra-Build-Plate-Tilt-Dripper/blob/main/images/Saturn4-Back.jpg)
 
-### Printing
+### Parts Needed
 > [!IMPORTANT]
 > Ensure your filament profile shrinkage modifier has been calibrated to within .25% before printing or you will have fitment issues
 1. Print settings (PETG recommended)
