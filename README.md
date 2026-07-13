@@ -3,7 +3,9 @@
 ### Instructions
 1. Print using .25mm layers, 4 top and bottom layers, 5 walls
 2. PETG recommended
-3. Ensure your filament profile is dialed in
+3. Two M4 x 18mm stainless flat head wood screws required
+   - Replaces the 15mm center screws on the top of the build plate
+4. Ensure your filament profile is dialed in
    - If the shrinkage modifier is off by more than .25% the fit will not be perfect as designed
 
 Original model can be found [here](https://www.printables.com/model/925187-saturn-4-ultra)
