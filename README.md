@@ -23,7 +23,7 @@
 
 ### Installation
 1. Remove the plastic handle wings on the top of the build plate
-2. Remove the center screw on the top edge of the front and back of the build plate
+2. Remove the center screws at the front and rear edge of the build plate
 3. Place the printed shim, chamfer down, into the rear center screw pocket
 4. Install the Saturn 4 Ultra Build Plate Tilt Dripper over the top of the build plate
    - Orient so the angled receptacle is to the right of the build plate 
