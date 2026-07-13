@@ -1,6 +1,6 @@
 ## A complete, from scratch redesign of a Printables Saturn 4/4 Ultra build plate tilt mount
 ### Features
-1. Fixes all geometry issues
+1. Fixes all geometry issues and broken features
 2. Addresses a minor build plate collision with the motion column when tilted
 3. Improves print-ability
 4. Improves part strength
