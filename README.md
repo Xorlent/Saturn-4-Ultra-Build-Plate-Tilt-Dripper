@@ -18,8 +18,8 @@ Features
    - As little as 10% infill
 2. Two M4 x 18mm stainless flat head wood screws required
    - Replaces the 15mm center screws on the top of the build plate
-3. Ensure your filament profile is dialed in
-   - If the shrinkage modifier is off by more than .25% the fit will not be perfect as designed
+> [!TIP]
+> Ensure your filament profile shrinkage modifier has been calibrated to within .25% before printing or you will have fitment issues
 
 ### Installation
 1. Remove the plastic handle wings on the top of the build plate
